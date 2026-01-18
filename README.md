@@ -1,4 +1,4 @@
-This line is added in feature/dashboard branch.
+# Added this line in feature/dashboard branch (edited again).
 ## Login Feature
 - User authentication
 - Password encryption
